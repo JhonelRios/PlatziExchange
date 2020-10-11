@@ -1,7 +1,7 @@
 # PlatziExchange
 
 ### Link to te project
-Go to [PlatziExchange]().
+Go to [PlatziExchange](https://exchange-jhonel.netlify.app/).
 
 ## Project setup
 ```
