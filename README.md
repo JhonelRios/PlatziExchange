@@ -1,4 +1,4 @@
-# platzi-exchange
+# PlatziExchange
 
 ### Link to te project
 Go to [PlatziExchange]().
